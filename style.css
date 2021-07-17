@@ -41,3 +41,15 @@ html {
   -ms-user-select: none;
   user-select: none;
 }
+
+.fix-menu-small{
+  padding-top: 0px;
+  padding-bottom: 0px;
+}
+
+.navbar-toggler{
+  padding-top: 3%;
+  padding-bottom: 3%;
+  padding-right: 3%;
+  padding-left: 3%;
+}
